@@ -1,1 +1,1 @@
-requirejs.config({baseUrl:"lib",paths:{app:"../app"}}),requirejs(["jquery"],function(e){console.log("Welcome to hell!")});
+requirejs(["jquery"],function(e){console.log("Welcome to hell!")});
