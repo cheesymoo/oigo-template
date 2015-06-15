@@ -1,1 +1,1 @@
-requirejs(["jquery"],function(e){console.log("Welcome to hell!")});
+requirejs(["lib/jquery"],function(e){console.log("Welcome to hell!")});
